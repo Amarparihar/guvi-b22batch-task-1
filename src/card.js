@@ -23,7 +23,7 @@ export default function Card(props) {
               }
              
           </ul>
-          <a href="#" class="btn btn-block btn-primary text-uppercase">
+          <a class="btn btn-block btn-primary text-uppercase">
             Button
           </a>
         </div>
