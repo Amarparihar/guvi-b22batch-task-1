@@ -23,9 +23,9 @@ export default function Card(props) {
               }
              
           </ul>
-          <a class="btn btn-block btn-primary text-uppercase">
+          <button class="btn btn-block btn-primary text-uppercase">
             Button
-          </a>
+          </button>
         </div>
       </div>
     </div>
